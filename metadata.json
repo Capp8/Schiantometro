@@ -1,0 +1,6 @@
+{
+  "name": "BAC Risk Estimator",
+  "description": "Strumento per la stima del tasso alcolemico e del rischio di incidente stradale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
