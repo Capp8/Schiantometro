@@ -1,4 +1,4 @@
-workflow_content = """name: Deploy Vite site to GitHub Pages
+name: Deploy Vite site to GitHub Pages
 
 on:
   push:
@@ -47,9 +47,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-"""
-
-with open("deploy.yml", "w") as f:
-    f.write(workflow_content)
-    
-print("File deploy.yml created successfully.")
