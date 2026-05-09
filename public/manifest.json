@@ -1,0 +1,21 @@
+{
+  "name": "Schiantometro",
+  "short_name": "Schiantometro",
+  "description": "Calcola il tuo BAC e il rischio di incidente in tempo reale.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f4f0",
+  "theme_color": "#ff90e8",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
